@@ -6,7 +6,7 @@ This is my (basic) tmux configuration.
 
 Check if tmux is installed:
 
-   tmux -V 
+    tmux -V 
 
 If tmux isn't already installed, install it.
 On Os X you typically run:
@@ -27,6 +27,10 @@ This repository has submodules. You still need to run:
     cd .tmux
     git submodule init
     git submodule update
+
+If you are already in a tmux session:
+
+    tmux source-file ~/.tmux.conf
 
 
 
