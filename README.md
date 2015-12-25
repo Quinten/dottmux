@@ -32,6 +32,6 @@ If you are already in a tmux session, you can refresh the statusline with:
 
     tmux source-file ~/.tmux.conf
 
-For the fancy triangles it is recommended to have a powerline font installed. See https://github.com/powerline/fonts (i personaly like AnonymousPro very much)
+For the fancy triangles it is recommended to have a powerline font installed. See https://github.com/powerline/fonts
 
 You might also be interested in https://github.com/Quinten/dotvim
