@@ -1,3 +1,6 @@
 [submodule "plugins/tmux-battery"]
 	path = plugins/tmux-battery
 	url = https://github.com/tmux-plugins/tmux-battery
+[submodule "plugins/tmux-resurrect"]
+	path = plugins/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect
