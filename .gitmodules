@@ -7,3 +7,6 @@
 [submodule "plugins/tmux-continuum"]
 	path = plugins/tmux-continuum
 	url = https://github.com/tmux-plugins/tmux-continuum
+[submodule "plugins/tmux-scroll-copy-mode"]
+	path = plugins/tmux-scroll-copy-mode
+	url = git@github.com:NHDaly/tmux-scroll-copy-mode.git
