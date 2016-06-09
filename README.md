@@ -13,7 +13,11 @@ On Os X you typically run:
 
     brew install tmux
 
-To install this configuration on a new machine:
+Also install:
+
+    brew install reattach-to-user-namespace
+
+To install this dottmux configuration on a new machine:
 Make sure you have backed up the .tmux.conf file, because it has to be overridden.
 Then run the following commands:
 
